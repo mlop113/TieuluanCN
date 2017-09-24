@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">World News</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="userimage">avatar</string>
+    <string name="ic_expand">expand</string>
+    <string name="ic_search">search</string>
+    <string name="login">đăng nhập</string>
+    <string name="quicksearch">Tìm nhanh</string>
+    <string name="categoryname">Chuyên mục</string>
+    <string name="taghot">Hot</string>
+    <string name="tagNew">New</string>
+</resources>
